@@ -7,7 +7,7 @@
 ### 💼 **À propos de moi :**
 - 🔧 Spécialisé en **création de sites WordPress**, intégration de systèmes de commande en ligne et optimisation SEO.
 - 💻 J’ai appris le développement **en autodidacte** et je crée des solutions adaptées pour les commerces locaux.
-- 📍 Basé à [Ta Ville].
+- 📍 Basé à Toulouse.
 
 ---
 
@@ -31,13 +31,6 @@
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Writingway&show_icons=true&theme=radical)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Writingway&layout=compact&theme=radical)
-
----
-
-### 📫 **Me Contacter :**
-- 💼 **[LinkedIn](URL LinkedIn)**  
-- 📧 **[Email](mailto:tonemail@exemple.com)**  
-- 🌐 **[Portfolio](URL de ton Portfolio)**  
 
 ---
 
