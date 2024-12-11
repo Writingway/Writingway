@@ -22,16 +22,15 @@
 
 ### 🚀 **Mes Projets :**
 
-- 🛒 **[Nom du Projet 1](URL du Projet)** – Site e-commerce complet avec WooCommerce.  
-- 🌐 **[Nom du Projet 2](URL du Projet)** – Site vitrine optimisé pour le SEO.  
+- 🛒 **CardsCollector ([URL du Projet](https://cardscollector.fr/))** – Site e-commerce complet avec WooCommerce.  
 
 ---
 
 ### 📊 **Statistiques GitHub :**
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Writingway&show_icons=true&theme=radical)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_nom_utilisateur&layout=compact&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Writingway&layout=compact&theme=radical)
 
 ---
 
