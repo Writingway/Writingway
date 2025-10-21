@@ -1,7 +1,6 @@
 # 👋 Salut, moi c’est Writingway
 
 Bienvenue sur mon profil GitHub !  
-Je suis un développeur passionné par **{{LANGAGES}}**, l’open-source et l’automatisation.
 
 ---
 
@@ -19,5 +18,6 @@ Je suis un développeur passionné par **{{LANGAGES}}**, l’open-source et l’
 ---
 
 💡 *Ce README est mis à jour automatiquement grâce à [GitHub Actions](https://github.com/features/actions).*
+
 
 
