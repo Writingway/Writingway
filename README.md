@@ -17,7 +17,5 @@ Bienvenue sur mon profil GitHub !
 
 ---
 
-💡 *Ce README est mis à jour automatiquement grâce à [GitHub Actions](https://github.com/features/actions).*
-
 
 
