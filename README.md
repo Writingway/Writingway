@@ -12,10 +12,11 @@ Je suis un développeur passionné par **{{LANGAGES}}**, l’open-source et l’
 ---
 
 ### 📊 Mes statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&show_icons=true&theme=tokyonight)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Writingway&show_icons=true&theme=tokyonight)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username={{USERNAME}}&layout=compact&theme=tokyonight)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Writingway&layout=compact&theme=tokyonight)
 
 ---
 
 💡 *Ce README est mis à jour automatiquement grâce à [GitHub Actions](https://github.com/features/actions).*
+
