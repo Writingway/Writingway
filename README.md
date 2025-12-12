@@ -5,17 +5,18 @@ Bienvenue sur mon profil GitHub !
 ---
 
 ### 🔥 Activité récente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
+![Statistiques GitHub](https://gitmystat.vercel.app//user?username=Writingway)
 
 ---
 
 ### 📊 Mes statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Writingway&show_icons=true&theme=tokyonight)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/top?username=Writingway&layout=compact)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Writingway&layout=compact&theme=tokyonight)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/top?username=Writingway&layout=bar)
 
 ---
+
 
 
 
