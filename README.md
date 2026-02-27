@@ -11,7 +11,7 @@ Hi, I’m **Mario Colomas**, Junior Full-Stack Developer in training at **Holber
 I build projects from low-level systems (C, Shell) to full-stack web apps (Python, SQL, JS).  
 Currently seeking a **Full-Stack apprenticeship starting September 2026** to contribute to real-world projects and sharpen my skills.
 
----
+- - -
 
 # 🔧 Tech Stack
 
@@ -19,7 +19,7 @@ Currently seeking a **Full-Stack apprenticeship starting September 2026** to con
   <img src="https://skillicons.dev/icons?i=c,python,js,ts,html,css,bash,sql,mysql,git,github,linux,docker,vscode" />
 </p>
 
-___
+* * *
 
 # 📊 GitHub Stats
 
@@ -29,9 +29,4 @@ ___
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/writingway">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=writingway&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
-</p>
 
