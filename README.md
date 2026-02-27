@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="your-banner.png" alt="Banner" width="100%" />
+  <img src="[your-banner.png](https://ibb.co/V0LGJb8m)" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Pierre | Full-Stack Developer</h1>
@@ -103,3 +103,4 @@ Gamified self-improvement system with reward mechanics and progression logic.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
