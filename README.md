@@ -1,50 +1,58 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="[your-banner.png](https://ibb.co/V0LGJb8m)" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Pierre | Full-Stack Developer</h1>
+<h1 align="center">Mario Colomas</h1>
+<h3 align="center">Full-Stack Developer | Holberton School Toulouse</h3>
 
 <p align="center">
-  🎓 Holberton School Toulouse • 💻 Full-Stack • 🚀 Alternance 2026
+  <a href="https://github.com/writingway">
+    <img src="https://img.shields.io/badge/GitHub-writingway-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/mario-colomas">
+    <img src="https://img.shields.io/badge/LinkedIn-mario--colomas-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Développeur formé à la **pédagogie par projets**, avec une compréhension solide du bas niveau (C, mémoire, processus Unix) jusqu’au développement d’applications web full-stack (API REST, bases de données, architecture).
+🎓 Student at **Holberton School Toulouse**  
+💻 Specializing in Full-Stack Development (Alternance 2026)  
+🚀 Strong foundation from low-level systems programming to full web application architecture  
 
-🔎 Recherche une alternance Full-Stack pour septembre 2026  
-⚙️ Intéressé par l’architecture, la performance et le clean code  
+I build projects from scratch — from memory management in C to REST APIs and SQL-backed web applications.  
+I am currently seeking a Full-Stack apprenticeship starting September 2026.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Stack
 
-### Languages
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,python,js,bash,sql" />
 </p>
 
-### Front-End
+### 🌐 Front-End
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Back-End
+### ⚙️ Back-End
 <p>
   <img src="https://skillicons.dev/icons?i=python,nodejs" />
 </p>
 
-### Database
+### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools & Environment
+### 🧰 Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
 </p>
 
 ---
@@ -52,55 +60,63 @@ Développeur formé à la **pédagogie par projets**, avec une compréhension so
 ## 🚀 Featured Projects
 
 ### 🏠 Hbnb – Full-Stack Airbnb Clone
-- REST API (Python)
-- SQL database
-- Front-end integration
-- Modular architecture
+- REST API built with Python  
+- SQL database architecture  
+- Front-end & back-end integration  
+- Modular project structure  
 
 ### 🖥 Simple Shell (C)
-- fork / exec / wait
-- Command parsing
-- Memory management
-- Unix process handling
+- fork / exec / wait implementation  
+- Command parsing  
+- Process management  
+- Deep Unix system understanding  
 
 ### 🧩 Custom printf (C)
-- Variadic functions
-- Format specifier parsing
-- Buffer management
+- Variadic functions  
+- Format specifier parsing  
+- Buffer handling & memory control  
 
 ### 📱 Personal Development App
-Gamified self-improvement system with reward mechanics and progression logic.
+Gamified productivity system focused on reward mechanics and user progression.
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications (IBM SkillsBuild)
 
-- IBM Open Source Software
-- IBM Agile Explorer
-- IBM SQL & Relational Databases
-- IBM Project Management Fundamentals
-- IBM Cloud Fundamentals
-- IBM Cybersecurity Fundamentals
+- Open Source Software  
+- Agile Explorer  
+- SQL & Relational Databases  
+- Project Management Fundamentals  
+- Cloud Fundamentals  
+- Cybersecurity Fundamentals  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=writingway&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=writingway&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🎯 Currently Focused On
+
+- REST API architecture  
+- Clean code & scalability  
+- Database optimization  
+- Preparing for Full-Stack apprenticeship  
 
 ---
 
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://linkedin.com/in/YOURLINK">
+<p align="center">
+  <a href="https://linkedin.com/in/mario-colomas">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
